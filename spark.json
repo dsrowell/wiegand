@@ -1,6 +1,6 @@
 {
-  "name": "wiegand-library",
-  "author": "Joe Goggins <joe@spark.io>",
+  "name": "wiegand",
+  "author": "dsr <spark@dsri.org>",
   "license": "LGPL 2.1",
   "version": "0.0.1",
   "description": "A Wiegand library"
